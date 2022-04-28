@@ -45,7 +45,7 @@ export default {
   apollo: {
     clientConfigs: {
       default: {
-        httpEndpoint: 'https://kampusmerdekayudha.hasura.app/v1/graphql'
+        httpEndpoint: 'https://todoyudha.hasura.app/v1/graphql'
       }
     }
   },
